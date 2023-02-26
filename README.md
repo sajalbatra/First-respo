@@ -4,7 +4,6 @@
 
 - 🎓 I'm a 1st year student at [SRM University, Sonepat](https://srmuniversity.ac.in/).
 - 🌱 I’m currently learning **Web Development**.
--
 
 
 # 🛠️ Primary Tech Stack
